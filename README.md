@@ -1,5 +1,5 @@
 # was going to replace the current gimp splash logo from
-![s1](https://www.google.com/imgres?imgurl=https%3A%2F%2Ffiles.shroomery.org%2Ffiles%2F20-44%2F425227947-fungi_bartl.jpg&imgrefurl=https%3A%2F%2Fwww.shroomery.org%2Fforums%2Fshowflat.php%2FNumber%2F27015542&tbnid=ae3aJtK6ud3ZrM&vet=12ahUKEwi15Nf7k4bxAhW4XTABHRJkCaYQMygAegQIARA5..i&docid=OpGt1wxcgWUbfM&w=968&h=591&q=gimp%20splash%20mushrooms&ved=2ahUKEwi15Nf7k4bxAhW4XTABHRJkCaYQMygAegQIARA5)
+![s1](https://files.shroomery.org/files/20-44/425227947-fungi_bartl.jpg)
 to
 
 (of the scream painting guy from the 1800s running down the street screaming after seeing the mushroom splash logo load using gimp of broken rotten dicks)
