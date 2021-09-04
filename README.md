@@ -1,7 +1,6 @@
 # was going to replace the current gimp splash logo from
 ![s1](https://files.shroomery.org/files/20-44/425227947-fungi_bartl.jpg)
-
-
+/usr/share/gimp/2.0/images
 # to the scream painting guy from the 1800s running down the street screaming after seeing the mushroom splash logo load using gimp of broken rotten dicks
 ![s1](https://raw.githubusercontent.com/c4pt000/gimp-2.99-2.2-logo/master/9781783613564-us.jpg)
 
